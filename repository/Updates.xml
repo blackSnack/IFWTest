@@ -9,7 +9,6 @@
   <Version>2.0.0-1</Version>
   <ReleaseDate>2019-11-11</ReleaseDate>
   <Default>true</Default>
-  <Script>installscript.qs</Script>
   <UpdateFile CompressedSize="28235439" OS="Any" UncompressedSize="127040211"/>
   <DownloadableArchives>bin.7z,doc.7z,etc.7z,script.7z</DownloadableArchives>
   <SHA1>fe582f36fada4365df9d7c95a3d4949e67388200</SHA1>
